@@ -1,6 +1,10 @@
 # Authenticator
 Standalone authenticator executable (Windows) for internal purposes, e.g. used with a DynDNS service.
 
+#### False Positives by Antivirus Software
+
+AutoIt is dead easy to use; end users do not need to install AutoIt to run compiled programs. However, the downside is, that it is often wrongfully detected as a virus by Windows Defender or other antivirus software.
+
 #### Requirements
 
 - AutoIt 3.3.14.5
